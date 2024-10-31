@@ -1,0 +1,180 @@
+.privacy-policy15 {
+  position: absolute;
+  top: 177.63rem;
+  left: 74rem;
+}
+.close-up-stylish-tourist-with-icon8 {
+  position: absolute;
+  top: 8.94rem;
+  left: 0;
+  border-radius: var(--br-7xs);
+  width: 90rem;
+  height: 37.75rem;
+  object-fit: cover;
+  display: none;
+}
+.about-us10 {
+  position: absolute;
+  top: 16rem;
+  left: 38.63rem;
+  font-size: var(--font-size-21xl);
+  font-weight: 600;
+  font-family: var(--font-serca);
+  color: var(--color-black);
+  display: inline-block;
+  width: 10.56rem;
+  height: 3.56rem;
+}
+.footer-child6 {
+  position: absolute;
+  top: 33.88rem;
+  left: 0;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #0d1821;
+  width: 91.13rem;
+  height: 33.88rem;
+}
+.facebook-1-icon8,
+.instagram-1-icon8,
+.mail-1-icon8 {
+  position: absolute;
+  top: 20.06rem;
+  width: 4.25rem;
+  height: 4.25rem;
+  object-fit: cover;
+}
+.instagram-1-icon8 {
+  left: 29.75rem;
+  border-radius: var(--br-10xs);
+}
+.facebook-1-icon8,
+.mail-1-icon8 {
+  left: 43.44rem;
+}
+.mail-1-icon8 {
+  top: 19.81rem;
+  left: 57.13rem;
+}
+.contact-us-here8,
+.faq8 {
+  position: absolute;
+  top: 15rem;
+  left: 37.31rem;
+}
+.faq8 {
+  top: 3.75rem;
+  left: 56.06rem;
+}
+.privacy-policy16,
+.shipping9,
+.terms-and-conditions8 {
+  position: absolute;
+  top: 3.75rem;
+  left: 26.31rem;
+}
+.privacy-policy16,
+.shipping9 {
+  left: 8.94rem;
+}
+.privacy-policy16 {
+  left: 70.31rem;
+}
+.footer8,
+.navbar-child44 {
+  position: absolute;
+  width: 91.13rem;
+}
+.footer8 {
+  top: 65.25rem;
+  left: -0.56rem;
+  height: 33.88rem;
+}
+.navbar-child44 {
+  top: 0;
+  left: 0;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #0d1821;
+  height: 6.81rem;
+}
+.navbar-child45 {
+  left: 40.63rem;
+  background-color: var(--color-lightseagreen);
+  width: 9.25rem;
+}
+.navbar-child45,
+.navbar-child46,
+.navbar-child47,
+.navbar-child48 {
+  position: absolute;
+  top: 1.94rem;
+  border-radius: var(--br-31xl);
+  height: 2.88rem;
+  display: none;
+}
+.navbar-child46 {
+  left: 67.5rem;
+  background-color: var(--color-dimgray);
+  width: 10.69rem;
+}
+.navbar-child47,
+.navbar-child48 {
+  left: 51.63rem;
+  width: 14.38rem;
+}
+.navbar-child48 {
+  left: 79.94rem;
+  background-color: var(--color-dimgray);
+  width: 6.69rem;
+}
+.collections10,
+.home9 {
+  position: absolute;
+  top: 2.19rem;
+  cursor: pointer;
+}
+.home9 {
+  left: 43.19rem;
+  color: var(--color-snow-200);
+}
+.collections10 {
+  left: 52.69rem;
+}
+.about-us11 {
+  left: 68.31rem;
+  display: inline-block;
+  width: 9.69rem;
+}
+.about-us11,
+.carrymate10,
+.cart10 {
+  position: absolute;
+  top: 2.19rem;
+}
+.cart10 {
+  left: 80.81rem;
+  cursor: pointer;
+}
+.carrymate10 {
+  left: 4.06rem;
+  font-weight: 800;
+  display: inline-block;
+  width: 13rem;
+  height: 5.25rem;
+}
+.navbar10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 91.13rem;
+  height: 7.44rem;
+  font-family: var(--font-serca);
+}
+.about-us-page {
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  width: 100%;
+  height: 99.13rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-snow-100);
+  font-family: var(--font-inter);
+}
